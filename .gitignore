@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+*.log
+*.tmp
+*.bak
+*.zip
+*.sql
+.DS_Store
+.idea/
+config.bat
